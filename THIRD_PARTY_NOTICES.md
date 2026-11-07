@@ -17,10 +17,10 @@ their own licenses, which are not changed by this notice.
 
 ---
 
-## Blackfrost-AI (Sir Frosty) — SAGE packs
+## SAGE packs
 
 - The served checkpoint `vcruz305/GLM-5.3-Flash-SAGE-REXL3-2.48bpw` is a SAGE
-  pack produced in official collaboration with Blackfrost-AI.
+  pack.
 - **SAGE is proprietary.** This repository references the pack by name and bpw
   only: it does not document how the pack was produced, does not bundle any
   pack artifact, measurement, solver or calibration file, and does not link the
@@ -71,12 +71,12 @@ SOFTWARE.
 
 ---
 
-## The vllm-exl3 plugin authors
+## The vllm-exl3 plugin
 
-The EXL3 serving plugin this runtime loads is the community's `vllm-exl3`
-work; the loader patches in [patches/](patches/) adapt the installed snapshot
-in place at boot and are published so the failure modes they fix are
-documented. The plugin and vLLM remain under their own licenses.
+The EXL3 serving plugin this runtime loads is `vllm-exl3`, authored by
+Victor Cruz (vcruz305). The loader patches in [patches/](patches/) adapt the
+installed snapshot in place at boot and are published so the failure modes
+they fix are documented. vLLM remains under its own license.
 
 ---
 

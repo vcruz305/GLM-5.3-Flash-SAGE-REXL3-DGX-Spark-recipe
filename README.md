@@ -138,11 +138,10 @@ evidence and the trip forensics protocol in [docs/SAFETY.md](docs/SAFETY.md).
 ## Credits
 
 - **Z.ai / GLM-5 team** for [GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash).
-- **Blackfrost-AI (Sir Frosty)** — official collaboration on the SAGE packs.
 - **Inco AI** for the DFlash2 drafter (**CC BY-NC-ND 4.0**, non-commercial
   research/evaluation).
-- The **vllm-exl3 plugin** authors and **turboderp-org/exllamav3** for the EXL3
-  runtime this serves on.
+- **Victor Cruz** for the `vllm-exl3` plugin and
+  **turboderp-org/exllamav3** for the EXL3 runtime this serves on.
 - [gitcommit90/glm-5.3-one-spark](https://github.com/gitcommit90/glm-5.3-one-spark)
   and **Weschera** for the reference deployments and cross-checks this recipe's
   measurements are validated against.
