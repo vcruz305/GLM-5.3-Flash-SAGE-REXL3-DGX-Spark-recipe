@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+runs/
+last_run
+*.jsonl
+.env
+.hf-token
+*.safetensors
+models/
